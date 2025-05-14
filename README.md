@@ -62,5 +62,3 @@ This project is licensed under the **European Union Public License (EUPL) v1.2**
 For more information, see [https://joinup.ec.europa.eu/collection/eupl](https://joinup.ec.europa.eu/collection/eupl).
 
 ---
-
-Feel free to open an issue or contribute via pull requests. Feedback and improvements are very welcome!
